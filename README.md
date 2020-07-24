@@ -1,23 +1,19 @@
-# svelte app
+# Svelte Portfolio Generator
+This is a simple portfolio site using svelte framework
 
-This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template-webpack.
+To Create your portfolio follow below instruction
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit sveltejs/template-webpack svelte-app
-cd svelte-app
-```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
 
 
 ## Get started
 
-Install the dependencies...
+Clone this Repo...
+
 
 ```bash
-cd svelte-app
+cd your-app
 npm install
 ```
 

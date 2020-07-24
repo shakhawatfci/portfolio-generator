@@ -34,11 +34,11 @@ onMount(() => {
 			</p>
 
             <ul class="social-network social-circle">
-                <li><a  target="_blank"   href="https://github.com/shakhawatfci" class="icoRss" title="Rss"><i class="fa fa-github"></i></a></li>
-                <li><a  target="_blank"   href="https://facebook.com/snsabbir.fci" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-                <li><a  target="_blank"  href="https://twitter.com/shakhawat_fci" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+                <li><a  target="_blank"   href="https://github.com/shakhawatfci" class="icoRss" title="Rss"><i class="fab fa-github"></i></a></li>
+                <li><a  target="_blank"   href="https://facebook.com/snsabbir.fci" class="icoFacebook" title="Facebook"><i class="fab fa-facebook"></i></a></li>
+                <li><a  target="_blank"  href="https://twitter.com/shakhawat_fci" class="icoTwitter" title="Twitter"><i class="fab fa-twitter"></i></a></li>
                 <li><a    href="mailto:94shakha.18@gmail.com" class="icoGoogle" title="Google +"><i class="fa fa-envelope"></i></a></li>
-                <li><a  target="_blank"  href="https://www.linkedin.com/in/shakhawat-hossain-a2206b116/" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                <li><a  target="_blank"  href="https://www.linkedin.com/in/shakhawat-hossain-a2206b116/" class="icoLinkedin" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
             </ul>	
 		</div>
 	</div>

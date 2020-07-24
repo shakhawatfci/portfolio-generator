@@ -1,8 +1,8 @@
 <script type="text/javascript">
 	let companies = [
-     { id: 1, companyName : 'DoofazIT' ,  position: 'Jr Software Engineer', period : 'Jan, 2016 - Nov, 2016' },
-     { id: 2, companyName : 'Belogin' ,  position: 'Software Engineer', period : 'Mar, 2017 - Oct, 2019' },
-     { id: 3, companyName : 'Limmex Automation' ,  position: 'Sr Software Engineer', period : 'Nov, 2019 - Currrently Working' },
+     { id: 1, companyName : 'DoofazIT' , icon: 'fab fa-dyalog',  position: 'Jr Software Engineer', period : 'Jan, 2016 - Nov, 2016' },
+     { id: 2, companyName : 'Belogin' , icon: 'fab fa-bootstrap', position: 'Software Engineer', period : 'Mar, 2017 - Oct, 2019' },
+     { id: 3, companyName : 'Limmex Automation' , icon: 'fas fa-wifi', position: 'Sr Software Engineer', period : 'Nov, 2019 - Currrently Working' },
 	];
 </script>
 
@@ -18,7 +18,7 @@
        	  <div class="col-md-4">
      		<div class="work-section">
      			<h3 class="work-icon">
-     				<i class="fa fa-first-order" aria-hidden="true"></i>
+     				<i class="{value.icon}" aria-hidden="true"></i>
      			</h3>
      			<h3 class="work-title">{value.companyName}</h3>
                 <p>Position : { value.position }</p>

@@ -1,8 +1,8 @@
 <script type="text/javascript">
 	let services = [
-     { id: 1, serviceName : 'Software Development' , icon : 'fa fa-language' },
-     { id: 2, serviceName : 'Apps Development' , icon : 'fa fa-apple' },
-     { id: 3, serviceName : 'Web Development' , icon : 'fa fa-code' },
+     { id: 1, serviceName : 'Software Development' , icon : 'fas fa-project-diagram' },
+     { id: 2, serviceName : 'Apps Development' , icon : 'fab fa-app-store' },
+     { id: 3, serviceName : 'Web Development' , icon : 'fas fa-laptop-code' },
      { id: 4, serviceName : 'Web Design' , icon : 'fa fa-globe' },
      { id: 5, serviceName : 'SASS PROVIDER' , icon : 'fa fa-cubes' },
      { id: 6, serviceName : 'Custom Software' , icon : 'fa fa-cogs' }

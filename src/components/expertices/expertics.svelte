@@ -1,20 +1,18 @@
 <script>
 	let languages = [
-       { id : 1, icon: 'fab fa-html5 fa-2x', name : 'HTML' , experience : '6 Year' },
-       { id : 2, icon: 'fab fa-css3  fa-2x', name : 'CSS' , experience : '6 Year' },
-       { id : 3, icon: 'fab fa-php fa-2x', name : 'PHP' , experience :   '5 Year' },
-       { id : 4, icon: 'fas fa-database fa-2x', name : 'Mysql' , experience : '5 Year' },
-       { id : 5, icon: 'fab fa-node-js fa-2x', name : 'Javascript' , experience : '6 Year' },
-       { id : 6, icon: 'fab fa-node fa-2x', name : 'Node' , experience :   '1 Year' },
+       { id : 1, icon: 'fab fa-html5 fa-2x', name : 'HTML' , experience : '3 Year' },
+       { id : 2, icon: 'fab fa-css3  fa-2x', name : 'CSS' , experience : '3 Year' },
+       { id : 3, icon: 'fab fa-php fa-2x', name : 'PHP' , experience :   '3 Year' },
+       { id : 4, icon: 'fas fa-database fa-2x', name : 'Mysql' , experience : '3 Year' },
+       { id : 5, icon: 'fab fa-js-square fa-2x', name : 'Javascript' , experience : '2 Year' },
 	];
 
 	let frameworks = [
-       { id : 1, icon: 'fab fa-laravel fa-2x', name : 'Laravel' , experience : '4.5 Year' },
-       { id : 2, icon: 'fab fa-bootstrap fa-2x', name : 'Bootstrap' , experience : '6 Year' },
-       { id : 3, icon: 'fab fa-jquery fa-2x', name : 'Jquery' , experience : '6 Year' },
-       { id : 4, icon: 'fab fa-vuejs fa-2x', name : 'Vue.js' , experience :   '2.5 Year' },
-       { id : 5, icon: 'fab fa-react fa-2x', name : 'Reactjs' , experience :   '1 Year' },
-       { id : 6, icon: 'fab fa-staylinked fa-2x', name : 'Svelte' , experience :   '1 Year' },
+       { id : 1, icon: 'fab fa-laravel fa-2x', name : 'Laravel' , experience : '2 Year' },
+       { id : 2, icon: 'fab fa-bootstrap fa-2x', name : 'Bootstrap' , experience : '3 Year' },
+       { id : 3, icon: 'fab fa-jquery fa-2x', name : 'Jquery' , experience : '2 Year' },
+       { id : 4, icon: 'fab fa-vuejs fa-2x', name : 'Vue.js' , experience :   '1 Year' },
+       { id : 6, icon: 'fab fa-staylinked fa-2x', name : 'Svelte' , experience :   '1/2 Year' },
 	];
 </script>
 

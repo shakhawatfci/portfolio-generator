@@ -55,6 +55,7 @@ body {
 	font-size: 3.5em;
 	font-weight: bold;
 	text-transform: uppercase;
+	color:#fff;
 	/*min-height: 80px;*/
 }
 
@@ -68,7 +69,7 @@ body {
 .hero-paragraph
 {
   font-size: 1.3em;
-
+  color: #fff;
 }
 
 
@@ -140,7 +141,7 @@ min-height: 65px;
 	background-color:#0590B8;
 }
 .social-network a.icoLinkedin:hover {
-	background-color:#007bb7;
+	background-color:#D7287E;;
 }
 .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i,
 .social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {

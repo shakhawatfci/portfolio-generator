@@ -19,7 +19,7 @@ onMount(() => {
 	    <span>|</span>	
 	    {#if isVisiable}
 	    <span in:fly="{{y: -20, duration: 800}}">
-	    {#each 'Shakhawat Hossain' as char, i}
+	    {#each 'ARIFUZZAMAN' as char, i}
 			<span
 				in:fade="{{delay: 1000 + i * 150, duration: 700}}"
 			>{char}</span>
@@ -30,15 +30,15 @@ onMount(() => {
        
 
 			<p class="hero-paragraph">
-                Computer Science Graduate, Software Engineer , Open Source Contributor , Envato Author
+                Computer Science Graduate, Software Engineer , Open Source Contributor
 			</p>
 
             <ul class="social-network social-circle">
-                <li><a  target="_blank"   href="https://github.com/shakhawatfci" class="icoRss" title="Rss"><i class="fab fa-github"></i></a></li>
-                <li><a  target="_blank"   href="https://facebook.com/snsabbir.fci" class="icoFacebook" title="Facebook"><i class="fab fa-facebook"></i></a></li>
-                <li><a  target="_blank"  href="https://twitter.com/shakhawat_fci" class="icoTwitter" title="Twitter"><i class="fab fa-twitter"></i></a></li>
-                <li><a    href="mailto:94shakha.18@gmail.com" class="icoGoogle" title="Google +"><i class="fa fa-envelope"></i></a></li>
-                <li><a  target="_blank"  href="https://www.linkedin.com/in/shakhawat-hossain-a2206b116/" class="icoLinkedin" title="Linkedin"><i class="fab fa-linkedin"></i></a></li>
+                <li><a  target="_blank"   href="https://github.com/arifuzzaman31" class="icoRss" title="Rss"><i class="fab fa-github"></i></a></li>
+                <li><a  target="_blank"   href="https://facebook.com/" class="icoFacebook" title="Facebook"><i class="fab fa-facebook"></i></a></li>
+                <li><a  target="_blank"  href="https://twitter.com/Arifuzzaman31" class="icoTwitter" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                <li><a    href="mailto:arifuzzaman.rb@gmail.com" class="icoGoogle" title="Google +"><i class="fa fa-envelope"></i></a></li>
+                <li><a  target="_blank"  href="https://www.instagram.com/arifuzzaman.rb/" class="icoLinkedin" title="Instagram"><i class="fab fa-instagram"></i></a></li>
             </ul>	
 		</div>
 	</div>
